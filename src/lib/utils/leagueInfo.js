@@ -8,8 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to The Busch League!.</p>
-  <p>The league made up of 10 friends since 2015, some in the league from the start, and some that have joined as we progressed. Starting back in Middle School to now as Adults, The Busch League has CHANGED, RESHAPED, and BEGAN a new Chapter and to many more years to come. From the great feel of competing and winning and the pain and suffering of losing... Proudly introduce you to the past, present, and future of our fantasy league! This is The Busch League.p>
-
+  
 
 /*   STEP 3   */
 /*
